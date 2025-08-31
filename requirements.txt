@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+Flask-Cors
+Pillow
+google-generativeai
+python-dotenv
+Gunicorn
+Waitress
